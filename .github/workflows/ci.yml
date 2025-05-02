@@ -1,4 +1,4 @@
-name: Continuous_Integration # Name of the workflow
+name: Continuous Integration # Name of the workflow
 on:
   push:
     branches: [ "main" ]
